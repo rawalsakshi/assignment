@@ -34,7 +34,7 @@
 			"price" : "1599",
 			"stock" : "50",
 			"discount" : "0",
-			"finalprice" : "1599",
+			"finalprice": "1599",
 			"size" : ["38","40","42","44"],
 			"color" : ["purple"],
 			"thumb" : "http://myntra.myntassets.com/images/style/style_search_image/United-Colors-of-Benetton-Men-Purple-Casual-Shirt_6607d7cac33f15d9a6b98dba8974bcda_images_180_240_mini.JPG",
