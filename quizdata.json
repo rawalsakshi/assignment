@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Who is the strongest?",
+    "answers": {
+      "a": "Superman",
+      "b": "The Terminator",
+      "c": "Waluigi",
+      "d": "Batman"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the best site ever created?",
+    "answers": {
+      "a": "SitePoint",
+      "b": "Simple Steps Code",
+      "c": "Trick question; they're both the best",
+      "d":""
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Where is Waldo really?",
+    "answers": {
+      "a": "Antarctica",
+      "b": "Exploring the Pacific Ocean",
+      "c": "Sitting in a tree",
+      "d": "Minding his own business"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "5 + 7 = ?",
+    "answers": {
+      "a": "11",
+      "b": "12",
+      "c": "10",
+      "d": "7"
+    },
+    "correctAnswer": "b"
+  },
+   {
+    "question": "90-34 = ?",
+    "answers": {
+      "a": "64",
+      "b": "46",
+      "c": "56",
+      "d": "54"
+    },
+    "correctAnswer": "c"
+  },
+     {
+    "question": "29+3 = ?",
+    "answers": {
+      "a": "33",
+      "b": "31",
+      "c": "32",
+      "d": "30"
+    },
+    "correctAnswer": "c"
+  }
+]
