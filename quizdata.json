@@ -20,14 +20,14 @@
     "correctAnswer": "c"
   },
   {
-    "question": "How many ducks does it take to have two ducks behind one duck, one duck in front of two ducks, and two ducks in front of one duck?",
+    "question": "On average, how long does a cat sleep everyday?",
     "answers": {
-      "a": "1 Ducks ",
-      "b": "3 Ducks ",
-      "c": "9 Ducks",
-      "d": "2 Ducks"
+      "a": "10-12 Hours",
+      "b": "12-14 Hours",
+      "c": "14-16 Hours",
+      "d": "16-18 Hours"
     },
-    "correctAnswer": "b"
+    "correctAnswer": "d"
   },
   {
     "question": "What breaks when you say it? ",
@@ -58,5 +58,67 @@
       "d": "None"
     },
     "correctAnswer": "d"
-  }
+  },
+  {
+    "question": "Which of these mammals are the only mammal that can't jump?",
+    "answers": {
+      "a": "Elephant",
+      "b": "Cat",
+      "c": "Giraffe",
+      "d": "Rhinocerous"
+    },
+    "correctAnswer": "a"
+  },
+    {
+    "question": "Coca Cola was originally coloured..??",
+    "answers": {
+      "a": "Black",
+      "b": "Green",
+      "c": "Yellow",
+      "d": "Red"
+    },
+    "correctAnswer": "b"
+  },
+    {
+    "question": "What comes first? The egg or the chicken?",
+    "answers": {
+      "a": "The egg",
+      "b": "The Chicken",
+      "c": "Neither one of them",
+      "d": "None"
+    },
+    "correctAnswer": "b"
+  },
+     {
+    "question": "Lightning never strikes in the same place twice.",
+    "answers": {
+      "a": "True",
+      "b": "False"
+    },
+    "correctAnswer": "b"
+  },
+     {
+    "question": "Adults have fewer bones than babies do.",
+    "answers": {
+      "a": "True",
+      "b": "False"
+    },
+    "correctAnswer": "a"
+  },
+     {
+    "question": "Sun takes 99.8% mass of our solar system",
+    "answers": {
+      "a": "True",
+      "b": "False"
+    },
+    "correctAnswer": "a"
+  },
+     {
+    "question": "No piece of paper can be folded in half more than 7 times",
+    "answers": {
+      "a": "True",
+      "b": "False"
+    },
+    "correctAnswer": "a"
+  },
 ]
