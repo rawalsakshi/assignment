@@ -4,59 +4,59 @@
     "answers": {
       "a": "Superman",
       "b": "The Terminator",
-      "c": "Waluigi",
+      "c": "Spiderman",
       "d": "Batman"
     },
     "correctAnswer": "b"
   },
   {
-    "question": "What is the best site ever created?",
+    "question": "Which planet is the hottest?",
     "answers": {
-      "a": "SitePoint",
-      "b": "Simple Steps Code",
-      "c": "Trick question; they're both the best",
-      "d":""
+      "a": "Jupiter",
+      "b": "Mercury",
+      "c": "Venus",
+      "d": "Earth"
     },
     "correctAnswer": "c"
   },
   {
-    "question": "Where is Waldo really?",
+    "question": "How many ducks does it take to have two ducks behind one duck, one duck in front of two ducks, and two ducks in front of one duck?",
     "answers": {
-      "a": "Antarctica",
-      "b": "Exploring the Pacific Ocean",
-      "c": "Sitting in a tree",
-      "d": "Minding his own business"
-    },
-    "correctAnswer": "d"
-  },
-  {
-    "question": "5 + 7 = ?",
-    "answers": {
-      "a": "11",
-      "b": "12",
-      "c": "10",
-      "d": "7"
+      "a": "1 Ducks ",
+      "b": "3 Ducks ",
+      "c": "9 Ducks",
+      "d": "2 Ducks"
     },
     "correctAnswer": "b"
   },
-   {
-    "question": "90-34 = ?",
+  {
+    "question": "What breaks when you say it? ",
     "answers": {
-      "a": "64",
-      "b": "46",
-      "c": "56",
-      "d": "54"
+      "a": "A mirror ",
+      "b": "Glass ",
+      "c": "Silence ",
+      "d": "It"
     },
     "correctAnswer": "c"
   },
-     {
-    "question": "29+3 = ?",
+   {
+    "question": "On a clear night about how many galaxies are visible to the naked eye?",
     "answers": {
-      "a": "33",
-      "b": "31",
-      "c": "32",
-      "d": "30"
+      "a": "Two",
+      "b": "Nine Thousand",
+      "c": "Six Millions",
+      "d": "Fifty"
     },
-    "correctAnswer": "c"
+    "correctAnswer": "a"
+  },
+     {
+    "question": "How many muscles do you have in total in all your fingers combined?",
+    "answers": {
+      "a": "10",
+      "b": "6",
+      "c": "2",
+      "d": "None"
+    },
+    "correctAnswer": "d"
   }
 ]
