@@ -98,7 +98,7 @@
     "correctAnswer": "b"
   },
      {
-    "question": "Adults have fewer bones than babies do.",
+    "question": "Adults have fewer bones than babies do",
     "answers": {
       "a": "True",
       "b": "False"
