@@ -1,4 +1,44 @@
 [
+    {
+    "question": "Countries touching India's border?",
+    "answers": {
+      "a": "Pakistan",
+      "b": "Nepal",
+      "c": "Bangladesh",
+      "d": "Sri Lanka"
+    },
+    "correctAnswer": ["a","b","c"]
+   },
+   {
+    "question": "Different Indain brands",
+    "answers": {
+      "a": "Royal Enfield",
+      "b": "Quick Heal",
+      "c": "EasyDay",
+      "d": "IndiGo"
+    },
+    "correctAnswer": ["a","b","c","d"]
+  },
+  {
+   "question": "Type of Vitamins",
+   "answers": {
+     "a": "Vitamin A",
+     "b": "Vitamin Z",
+     "c": "Vitamin Y",
+     "d": "Vitamin C"
+    },
+   "correctAnswer": ["a","d"]
+  },
+   {
+   "question": "Name of different mammals",
+   "answers": {
+     "a": "Rat",
+     "b": "Beer",
+     "c": "Fish",
+     "d": "Trees"
+    },
+   "correctAnswer": ["a","b"]
+  },
   {
     "question": "Who is the strongest?",
     "answers": {
@@ -7,7 +47,7 @@
       "c": "Spiderman",
       "d": "Batman"
     },
-    "correctAnswer": ["a","b","c"]
+    "correctAnswer": ["a"]
   },
   {
     "question": "Which planet is the hottest?",
@@ -17,7 +57,7 @@
       "c": "Venus",
       "d": "Earth"
     },
-    "correctAnswer": "c"
+    "correctAnswer": ["c"]
   },
   {
     "question": "On average, how long does a cat sleep everyday?",
@@ -27,7 +67,7 @@
       "c": "14-16 Hours",
       "d": "16-18 Hours"
     },
-    "correctAnswer": "d"
+    "correctAnswer": ["d"]
   },
   {
     "question": "What breaks when you say it? ",
@@ -37,7 +77,7 @@
       "c": "Silence ",
       "d": "It"
     },
-    "correctAnswer": "c"
+    "correctAnswer": ["c"]
   },
    {
     "question": "On a clear night about how many galaxies are visible to the naked eye?",
@@ -47,7 +87,7 @@
       "c": "Six Millions",
       "d": "Fifty"
     },
-    "correctAnswer": "a"
+    "correctAnswer": ["a"]
   },
      {
     "question": "How many muscles do you have in total in all your fingers combined?",
@@ -57,7 +97,7 @@
       "c": "2",
       "d": "None"
     },
-    "correctAnswer": "d"
+    "correctAnswer": ["d"]
   },
   {
     "question": "Which of these mammals are the only mammal that can't jump?",
@@ -67,7 +107,7 @@
       "c": "Giraffe",
       "d": "Rhinocerous"
     },
-    "correctAnswer": "a"
+    "correctAnswer": ["a"]
   },
     {
     "question": "Coca Cola was originally coloured..??",
@@ -77,7 +117,7 @@
       "c": "Yellow",
       "d": "Red"
     },
-    "correctAnswer": "b"
+    "correctAnswer": ["b"]
   },
     {
     "question": "What comes first? The egg or the chicken?",
@@ -87,7 +127,7 @@
       "c": "Neither one of them",
       "d": "None"
     },
-    "correctAnswer": "b"
+    "correctAnswer": ["b"]
   },
      {
     "question": "Lightning never strikes in the same place twice.",
@@ -95,7 +135,7 @@
       "a": "True",
       "b": "False"
     },
-    "correctAnswer": "b"
+    "correctAnswer": ["b"]
   },
      {
     "question": "Adults have fewer bones than babies do",
@@ -103,7 +143,7 @@
       "a": "True",
       "b": "False"
     },
-    "correctAnswer": "a"
+    "correctAnswer": ["a"]
   },
      {
     "question": "Sun takes 99.8% mass of our solar system",
@@ -111,7 +151,7 @@
       "a": "True",
       "b": "False"
     },
-    "correctAnswer": "a"
+    "correctAnswer": ["a"]
   },
      {
     "question": "No piece of paper can be folded in half more than 7 times",
@@ -119,6 +159,6 @@
       "a": "True",
       "b": "False"
     },
-    "correctAnswer":"a"
+    "correctAnswer": ["a"]
   }
 ]
