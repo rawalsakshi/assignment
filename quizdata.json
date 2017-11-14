@@ -7,7 +7,7 @@
       "c": "Spiderman",
       "d": "Batman"
     },
-    "correctAnswer": "a"
+    "correctAnswer": ["a","b","c"]
   },
   {
     "question": "Which planet is the hottest?",
